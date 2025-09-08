@@ -239,7 +239,7 @@ ui <- fluidPage(
                    tags$li("Fisheries management options")
                  ),
                  
-                 h5("References:"),
+                 h5("References:"),  # references-------
                  tags$ul(
                    tags$li("Methot, R.D, and C.R Wetzel (2013) Stock synthesis: A biological and 
                             statistical framework for fish stock assessment and fishery management.
